@@ -4,7 +4,7 @@
 
 ## 使い方
 example.py
-~~~
+~~~ python
 from worktime import worktime as wt
 
 始業時間 = wt(830)    # 8:30         wt("8:30") でも可
